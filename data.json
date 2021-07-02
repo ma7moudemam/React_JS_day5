@@ -1,0 +1,67 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "Esraa",
+      "age": 25,
+      "trackName": "React",
+      "birthDate": "01/01/1995"
+    },
+    {
+      "id": 3,
+      "name": "Mohamed",
+      "age": 30,
+      "trackName": "PHP",
+      "birthDate": "01/01/1990"
+    },
+    {
+      "id": 4,
+      "name": "Ziad",
+      "age": 30,
+      "trackName": "Math",
+      "birthDate": "15/3/2017"
+    },
+    {
+      "id": 860,
+      "name": "Aya",
+      "age": "15",
+      "trackName": "Oprah Woodward",
+      "birthDate": "2000-07-12"
+    },
+    {
+      "id": 225,
+      "name": "Winifred Kent",
+      "age": "53",
+      "trackName": "Hadley Joseph",
+      "birthDate": "1997-01-22"
+    },
+    {
+      "id": 334,
+      "name": "Karly Newman",
+      "age": "76",
+      "trackName": "Martina Jones",
+      "birthDate": "2008-11-22"
+    },
+    {
+      "id": 336,
+      "name": "Xavier Knowles",
+      "age": "1",
+      "trackName": "Kibo Wilkins",
+      "birthDate": "1977-01-28"
+    },
+    {
+      "id": 790,
+      "name": "Sophia Carpenter",
+      "age": "94",
+      "trackName": "Chantale Randall",
+      "birthDate": "1978-12-24"
+    },
+    {
+      "id": 980,
+      "name": "Rogan Burnett",
+      "age": "46",
+      "trackName": "Alexandra Small",
+      "birthDate": "1996-03-06"
+    }
+  ]
+}
